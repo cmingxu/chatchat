@@ -1,1 +1,3 @@
 aws-keypair.pem
+env
+bin/
